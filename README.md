@@ -17,4 +17,6 @@ Features:
     Shuffling
     A timer to turn to the next card
 
+The main function is in "Vocabulary Trainer/src/VocabularyTrainerGUI.java" !
+
 Note: Currently crashes on OS X during loading of cards. 
