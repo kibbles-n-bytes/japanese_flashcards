@@ -1,0 +1,15 @@
+﻿東：ひがし：east
+西：にし：west
+南：みなみ：south
+北：きた：north
+口：ぐち：mouth
+出：で：to exit
+右：みぎ：right
+左：ひだり：left
+分：ふん・ぷん：minute; to divide
+先：せん：ahead
+生：せい：birth
+大：だい・おお：big
+学：がく：learning
+外：がい：outside
+国：こく：country

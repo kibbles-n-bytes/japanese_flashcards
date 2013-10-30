@@ -1,0 +1,10 @@
+﻿みぎ：right
+ひだり：left
+まえ：front
+うしろ：back
+なか：inside
+うえ：on
+した：under
+ちかく：near; nearby
+となり：next
+あいだ：between

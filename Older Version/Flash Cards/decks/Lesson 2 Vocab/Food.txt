@@ -1,0 +1,6 @@
+おいしい: delicious
+さかな: fish
+とんかつ: pork cutlet
+にく: meat
+めにゅう: menu
+やさい: vegetable

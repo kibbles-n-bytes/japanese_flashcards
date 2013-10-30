@@ -1,0 +1,10 @@
+﻿きのう：yesterday
+～じかん：...hours
+cf.いちじかん：one hour
+せんしゅう：last week
+とき：when...; at the time of...
+げつようび：Monday
+かようび：Tuesday
+すいようび：Wednesday
+もくようび：Thursday
+きんようび：Friday
