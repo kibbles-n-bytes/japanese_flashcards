@@ -1,3 +1,18 @@
+/*
+	Michael Kibbe
+	Top comment written 10/29/13
+	
+	This GUI allows for simple creation of decks for use with the Japanese flash card program. It is optional; if 
+	you look at the text files that are created, they should be pretty self-explanatory. This just allows for quick
+	and easy creation, with pressing Ctrl + Enter automatically creating the currently filled out card and refreshing
+	for entry of the next one.
+	
+	You need to set the FOLDER_PATH variable yourself, but other than that, the GUI should be straightforward-ish.
+	
+	(This wasn't really meant for public use; I just kind of put together this for the time being for my own
+	purposes, haha)
+*/
+
 import java.awt.Component;
 import java.awt.Font;
 import java.awt.GridBagConstraints;
