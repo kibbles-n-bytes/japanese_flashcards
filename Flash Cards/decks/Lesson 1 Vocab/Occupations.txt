@@ -1,8 +1,0 @@
-しごと：job; work; occupation
-いしゃ：doctor
-かいしゃいん：office worker
-こうこうせい：high school student
-しゅふ：housewife
-だいがくいんせい：graduate student
-だいがくせい：college student
-べんごし：lawyer

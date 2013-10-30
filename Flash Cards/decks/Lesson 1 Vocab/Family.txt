@@ -1,6 +1,0 @@
-おかあさん：mother
-おとうさん：father
-おねえさん：older brother
-おにいさん：older sister
-いもうと：younger sister
-おとうと：younger brother
