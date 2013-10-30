@@ -1,0 +1,2 @@
+wordJapanese:おばあさん
+wordEnglish:grandmother; old woman

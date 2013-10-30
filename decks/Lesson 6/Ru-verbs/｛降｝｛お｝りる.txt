@@ -1,0 +1,4 @@
+wordJapanese:｛降｝｛お｝りる
+wordEnglish:to get off
+type:る
+particle:～を

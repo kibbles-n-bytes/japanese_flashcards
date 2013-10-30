@@ -1,0 +1,2 @@
+wordJapanese:｛空｝｛くう｝｛気｝｛き｝
+wordEnglish:air

@@ -1,0 +1,4 @@
+wordJapanese:｛捨｝｛す｝てる
+wordEnglish:to throw away
+type:る
+particle:～を

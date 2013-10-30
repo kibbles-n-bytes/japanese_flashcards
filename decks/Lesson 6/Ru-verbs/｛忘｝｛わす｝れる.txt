@@ -1,0 +1,4 @@
+wordJapanese:｛忘｝｛わす｝れる
+wordEnglish:to forget; to leave behind
+type:る
+particle:～を

@@ -1,0 +1,4 @@
+wordJapanese:｛使｝｛つか｝う
+wordEnglish:to use
+type:う
+particle:～を

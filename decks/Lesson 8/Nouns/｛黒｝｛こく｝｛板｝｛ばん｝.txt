@@ -1,0 +1,2 @@
+wordJapanese:｛黒｝｛こく｝｛板｝｛ばん｝
+wordEnglish:blackboard

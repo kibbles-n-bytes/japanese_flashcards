@@ -1,0 +1,2 @@
+wordJapanese:｛日｝｛に｝｛本｝｛ほん｝｛語｝｛ご｝
+wordEnglish:Japanese (language)

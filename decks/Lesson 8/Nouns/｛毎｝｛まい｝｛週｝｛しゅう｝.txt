@@ -1,0 +1,2 @@
+wordJapanese:｛毎｝｛まい｝｛週｝｛しゅう｝
+wordEnglish:every week

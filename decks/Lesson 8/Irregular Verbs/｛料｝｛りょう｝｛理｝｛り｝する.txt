@@ -1,0 +1,3 @@
+wordJapanese:｛料｝｛りょう｝｛理｝｛り｝する
+wordEnglish:to cook
+type:irregular

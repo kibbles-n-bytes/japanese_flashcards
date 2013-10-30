@@ -1,0 +1,2 @@
+wordJapanese:おじいさん
+wordEnglish:grandfather; old man

@@ -1,0 +1,4 @@
+wordJapanese:いる
+wordEnglish:to need
+type:う
+particle:～が

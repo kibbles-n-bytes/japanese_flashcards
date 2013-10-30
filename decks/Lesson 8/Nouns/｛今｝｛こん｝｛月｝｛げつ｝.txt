@@ -1,0 +1,2 @@
+wordJapanese:｛今｝｛こん｝｛月｝｛げつ｝
+wordEnglish:this month

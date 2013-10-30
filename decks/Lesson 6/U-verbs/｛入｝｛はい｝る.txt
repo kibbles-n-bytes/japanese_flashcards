@@ -1,0 +1,4 @@
+wordJapanese:｛入｝｛はい｝る
+wordEnglish:to enter
+type:う
+particle:～に

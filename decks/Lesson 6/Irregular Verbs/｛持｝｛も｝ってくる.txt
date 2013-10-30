@@ -1,0 +1,4 @@
+wordJapanese:｛持｝｛も｝ってくる
+wordEnglish:to bring (a thing)
+type:irregular
+particle:～を

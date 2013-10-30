@@ -1,0 +1,2 @@
+wordJapanese:おやすみ（なさい）。
+wordEnglish:Good night.

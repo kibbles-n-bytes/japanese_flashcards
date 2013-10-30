@@ -1,0 +1,3 @@
+wordJapanese:｛思｝｛おも｝う
+wordEnglish:to think
+type:う

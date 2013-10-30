@@ -1,0 +1,4 @@
+﻿wordJapanese:つける
+wordEnglish:to turn on
+type:る
+particle:～を

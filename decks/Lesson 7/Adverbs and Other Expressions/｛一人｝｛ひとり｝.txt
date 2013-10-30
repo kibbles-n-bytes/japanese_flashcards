@@ -1,0 +1,2 @@
+wordJapanese:｛一人｝｛ひとり｝
+wordEnglish:one person

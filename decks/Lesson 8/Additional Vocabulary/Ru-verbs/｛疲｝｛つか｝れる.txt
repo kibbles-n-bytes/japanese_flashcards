@@ -1,0 +1,3 @@
+wordJapanese:｛疲｝｛つか｝れる
+wordEnglish:to become tired
+type:る

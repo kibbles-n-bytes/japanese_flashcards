@@ -1,0 +1,2 @@
+wordJapanese:｛最｝｛さい｝｛後｝｛ご｝に
+wordEnglish:lastly

@@ -1,0 +1,4 @@
+﻿wordJapanese:｛知｝｛し｝る
+wordEnglish:to come to know
+type:う
+particle:～を

@@ -1,0 +1,14 @@
+﻿日：に、にち、び：day; sun
+本：ほん：book; basis
+人：じん、ひと：person
+月：げつ、がつ：moon; month
+火：か：fire
+水：すい、みず：water
+木：もく：tree
+金：きん：gold; money
+土：ど：soil
+曜：よう：weekday
+上：うえ：up
+下：した：down
+中：なか：middle
+半：はん：half

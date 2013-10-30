@@ -1,0 +1,2 @@
+wordJapanese:｛所｝｛ところ｝
+wordEnglish:place

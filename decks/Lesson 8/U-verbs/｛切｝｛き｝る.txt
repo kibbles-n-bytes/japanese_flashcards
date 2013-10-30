@@ -1,0 +1,4 @@
+wordJapanese:｛切｝｛き｝る
+wordEnglish:to cut
+type:う
+particle:～を

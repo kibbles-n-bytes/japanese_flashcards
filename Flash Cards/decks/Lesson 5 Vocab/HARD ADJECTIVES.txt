@@ -1,0 +1,4 @@
+﻿いそがしい：busy (people/days)
+おもしろい：interesting; funny
+つまらない：boring
+むずかしい：difficult

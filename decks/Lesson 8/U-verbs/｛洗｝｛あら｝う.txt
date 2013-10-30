@@ -1,0 +1,4 @@
+wordJapanese:｛洗｝｛あら｝う
+wordEnglish:to wash
+type:う
+particle:～を

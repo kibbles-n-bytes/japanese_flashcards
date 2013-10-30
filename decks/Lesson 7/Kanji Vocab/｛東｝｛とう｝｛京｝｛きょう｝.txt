@@ -1,0 +1,2 @@
+wordJapanese:｛東｝｛とう｝｛京｝｛きょう｝
+wordEnglish:Tokyo

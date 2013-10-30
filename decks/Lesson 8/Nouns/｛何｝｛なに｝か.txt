@@ -1,0 +1,2 @@
+wordJapanese:｛何｝｛なに｝か
+wordEnglish:something

@@ -1,0 +1,4 @@
+﻿wordJapanese:はく
+wordEnglish:to put on (items below your waist)
+type:う
+particle:～を

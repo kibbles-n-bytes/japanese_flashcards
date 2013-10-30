@@ -1,0 +1,2 @@
+wordJapanese:｛仕｝｛し｝｛事｝｛ごと｝
+wordEnglish:job; work; occupation

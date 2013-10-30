@@ -1,0 +1,2 @@
+wordJapanese:おはよう。
+wordEnglish:Good morning.

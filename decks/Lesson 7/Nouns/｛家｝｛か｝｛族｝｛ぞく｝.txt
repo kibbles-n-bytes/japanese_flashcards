@@ -1,0 +1,2 @@
+wordJapanese:｛家｝｛か｝｛族｝｛ぞく｝
+wordEnglish:family

@@ -1,0 +1,2 @@
+wordJapanese:まだ + negative
+wordEnglish:not... yet

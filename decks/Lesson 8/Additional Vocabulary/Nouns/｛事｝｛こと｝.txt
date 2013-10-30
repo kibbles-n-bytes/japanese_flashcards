@@ -1,0 +1,2 @@
+wordJapanese:｛事｝｛こと｝
+wordEnglish:things (intangible)

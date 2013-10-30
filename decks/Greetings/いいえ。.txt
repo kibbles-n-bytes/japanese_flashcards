@@ -1,0 +1,2 @@
+wordJapanese:いいえ。
+wordEnglish:No.; Not at all.

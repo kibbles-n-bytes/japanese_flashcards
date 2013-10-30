@@ -1,0 +1,4 @@
+﻿wordJapanese:｛結｝｛けっ｝｛婚｝｛こん｝する
+wordEnglish:to get married
+type:irregular
+particle:～と

@@ -1,0 +1,4 @@
+wordJapanese:｛始｝｛はじ｝める
+wordEnglish:to begin
+type:る
+particle:～を

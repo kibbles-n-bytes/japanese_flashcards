@@ -1,0 +1,2 @@
+wordJapanese:｛天｝｛てん｝｛気｝｛き｝｛予｝｛よ｝｛報｝｛ほう｝
+wordEnglish:weather forecast

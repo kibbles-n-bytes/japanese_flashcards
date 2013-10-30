@@ -1,0 +1,4 @@
+wordJapanese:｛洗｝｛せん｝｛濯｝｛たく｝する
+wordEnglish:to do laundry
+type:る
+particle:～を

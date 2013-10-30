@@ -1,0 +1,3 @@
+wordJapanese:｛急｝｛いそ｝ぐ
+wordEnglish:to hurry
+type:う

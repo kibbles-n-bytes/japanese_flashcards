@@ -1,0 +1,4 @@
+wordJapanese:じろじろ｛見｝｛み｝る
+wordEnglish:to stare (at...)
+type:る
+particle:～を

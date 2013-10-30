@@ -1,0 +1,5 @@
+wordJapanese:｛返｝｛かえ｝す
+wordEnglish:to return (a thing)
+type:う
+particle:person に
+particle:thing を

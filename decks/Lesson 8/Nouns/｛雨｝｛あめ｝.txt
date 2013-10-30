@@ -1,0 +1,2 @@
+wordJapanese:｛雨｝｛あめ｝
+wordEnglish:rain

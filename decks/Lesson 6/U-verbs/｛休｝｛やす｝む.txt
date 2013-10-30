@@ -1,0 +1,4 @@
+wordJapanese:｛休｝｛やす｝む
+wordEnglish:(1) to be absent (from...); (2) to rest
+type:う
+particle:(1) ～を

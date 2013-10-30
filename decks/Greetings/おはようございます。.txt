@@ -1,0 +1,2 @@
+wordJapanese:おはようございます。
+wordEnglish:Good morning. (polite)

@@ -1,0 +1,2 @@
+wordJapanese:｛毎｝｛まい｝｛晩｝｛ばん｝
+wordEnglish:every night

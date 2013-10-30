@@ -1,0 +1,4 @@
+﻿wordJapanese:｛勤｝｛つと｝める
+wordEnglish:to work for
+type:る
+particle:～につとめています

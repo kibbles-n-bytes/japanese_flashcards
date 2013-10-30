@@ -1,0 +1,4 @@
+wordJapanese:｛言｝｛い｝う
+wordEnglish:to say
+type:う
+particle:～を

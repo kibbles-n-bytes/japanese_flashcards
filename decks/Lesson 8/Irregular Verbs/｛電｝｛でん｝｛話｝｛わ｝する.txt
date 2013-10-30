@@ -1,0 +1,4 @@
+wordJapanese:｛電｝｛でん｝｛話｝｛わ｝する
+wordEnglish:to call
+type:irregular
+particle:～に

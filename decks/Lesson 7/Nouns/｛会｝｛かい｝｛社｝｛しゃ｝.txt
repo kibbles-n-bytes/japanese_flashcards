@@ -1,0 +1,2 @@
+wordJapanese:｛会｝｛かい｝｛社｝｛しゃ｝
+wordEnglish:company

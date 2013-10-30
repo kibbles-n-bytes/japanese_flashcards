@@ -1,0 +1,3 @@
+wordJapanese:｛雨｝｛あめ｝が｛降｝｛ふ｝る
+wordEnglish:it rains
+type:う

@@ -1,0 +1,2 @@
+wordJapanese:｛歌｝｛うた｝
+wordEnglish:song

@@ -1,0 +1,4 @@
+wordJapanese:｛手｝｛て｝｛伝｝｛つだ｝う
+wordEnglish:to help
+type:う
+particle:person/task を

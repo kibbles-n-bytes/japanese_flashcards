@@ -1,0 +1,4 @@
+wordJapanese:｛電｝｛でん｝｛話｝｛わ｝をかける
+wordEnglish:to make a phone call
+type:る
+particle:～に

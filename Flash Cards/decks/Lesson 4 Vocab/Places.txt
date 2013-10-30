@@ -1,0 +1,10 @@
+﻿おてら：temple
+こうえん：park
+スーパー：supermarket
+デパート：department store
+バスてい：bus stop
+びょういん：hospital
+ホテル：hotel
+ほんや：bookstore
+まち：town; city
+レストラン：restaurant

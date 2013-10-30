@@ -1,0 +1,2 @@
+wordJapanese:アパート
+wordEnglish:apartment

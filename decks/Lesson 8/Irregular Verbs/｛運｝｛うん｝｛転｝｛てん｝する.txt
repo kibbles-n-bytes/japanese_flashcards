@@ -1,0 +1,4 @@
+wordJapanese:｛運｝｛うん｝｛転｝｛てん｝する
+wordEnglish:to drive
+type:irregular
+particle:～を

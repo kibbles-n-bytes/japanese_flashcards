@@ -1,0 +1,15 @@
+﻿えんぴつ: pencil
+かさ: umbrella
+かばん: bag
+くつ: shoes
+さいふ: wallet
+じいんず: jeans
+じしょ: dictionary
+じてんしゃ: bicycle
+しんぶん: newspaper
+てぃいしゃつ: t-shirt
+とけい: watch; clock
+のおと: notebook
+ぺん: pen
+ぼうし: hat; cap
+ほん: book

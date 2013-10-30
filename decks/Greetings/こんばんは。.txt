@@ -1,0 +1,2 @@
+wordJapanese:こんばんは。
+wordEnglish:Good evening.

@@ -1,0 +1,2 @@
+wordJapanese:｛何｝｛なに｝も + negative
+wordEnglish:not... anything

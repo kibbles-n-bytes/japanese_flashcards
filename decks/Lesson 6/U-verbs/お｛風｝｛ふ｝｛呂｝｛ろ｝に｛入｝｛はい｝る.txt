@@ -1,0 +1,3 @@
+wordJapanese:お｛風｝｛ふ｝｛呂｝｛ろ｝に｛入｝｛はい｝る
+wordEnglish:to take a bath
+type:う

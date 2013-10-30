@@ -1,0 +1,2 @@
+wordJapanese:｛毎｝｛まい｝｛日｝｛にち｝
+wordEnglish:every day

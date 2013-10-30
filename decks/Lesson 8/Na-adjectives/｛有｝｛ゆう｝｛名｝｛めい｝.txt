@@ -1,0 +1,3 @@
+wordJapanese:｛有｝｛ゆう｝｛名｝｛めい｝
+wordEnglish:famous
+type:な

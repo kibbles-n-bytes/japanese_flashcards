@@ -1,0 +1,4 @@
+wordJapanese:｛作｝｛つく｝る
+wordEnglish:to make
+type:う
+particle:～を

@@ -1,0 +1,2 @@
+wordJapanese:｛学｝｛がっ｝｛校｝｛こう｝
+wordEnglish:school

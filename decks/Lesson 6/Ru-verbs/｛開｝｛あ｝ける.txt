@@ -1,0 +1,4 @@
+wordJapanese:｛開｝｛あ｝ける
+wordEnglish:to open (something)
+type:る
+particle:～を

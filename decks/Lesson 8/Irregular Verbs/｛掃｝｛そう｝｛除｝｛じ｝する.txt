@@ -1,0 +1,4 @@
+﻿wordJapanese:｛掃｝｛そう｝｛除｝｛じ｝する
+wordEnglish:to clean
+type:irregular
+particle:～を

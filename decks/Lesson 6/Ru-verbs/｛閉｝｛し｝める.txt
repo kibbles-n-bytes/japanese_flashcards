@@ -1,0 +1,4 @@
+wordJapanese:｛閉｝｛し｝める
+wordEnglish:to close (something)
+type:る
+particle:～を

@@ -1,0 +1,2 @@
+wordJapanese:｛大｝｛だい｝｛学｝｛がく｝｛生｝｛せい｝
+wordEnglish:college student

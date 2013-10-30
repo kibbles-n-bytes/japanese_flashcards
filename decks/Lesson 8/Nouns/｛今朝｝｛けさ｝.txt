@@ -1,0 +1,2 @@
+wordJapanese:｛今朝｝｛けさ｝
+wordEnglish:this morning

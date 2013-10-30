@@ -1,0 +1,2 @@
+wordJapanese:｛口｝｛くち｝
+wordEnglish:mouth

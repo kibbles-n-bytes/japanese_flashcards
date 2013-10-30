@@ -1,0 +1,3 @@
+wordJapanese:｛死｝｛し｝ぬ
+wordEnglish:to die
+type:う

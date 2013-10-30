@@ -1,0 +1,2 @@
+wordJapanese:コンビニ
+wordEnglish:convenience store

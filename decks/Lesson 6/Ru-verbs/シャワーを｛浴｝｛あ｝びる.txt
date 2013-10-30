@@ -1,0 +1,3 @@
+wordJapanese:シャワーを｛浴｝｛あ｝びる
+wordEnglish:to take a shower
+type:る

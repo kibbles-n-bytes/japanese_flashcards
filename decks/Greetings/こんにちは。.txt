@@ -1,0 +1,2 @@
+wordJapanese:こんにちは。
+wordEnglish:Good afternoon.

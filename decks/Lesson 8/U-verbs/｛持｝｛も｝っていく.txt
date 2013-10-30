@@ -1,0 +1,4 @@
+wordJapanese:｛持｝｛も｝っていく
+wordEnglish:to take (a thing)
+type:う
+particle:～を

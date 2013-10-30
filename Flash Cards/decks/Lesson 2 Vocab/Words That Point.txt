@@ -1,0 +1,13 @@
+これ: this one
+それ: that one
+あれ: that one (over there)
+どれ: which one
+この: this...
+その: that...
+あの: that... (over there)
+どの: which...
+ここ: here
+そこ: there
+あそこ: over there
+どこ: where
+だれ: who

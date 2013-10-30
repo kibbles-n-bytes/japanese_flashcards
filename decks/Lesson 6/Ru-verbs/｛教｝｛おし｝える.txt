@@ -1,0 +1,5 @@
+wordJapanese:｛教｝｛おし｝える
+wordEnglish:to teach; to instruct
+type:る
+particle:person に
+particle:thing を

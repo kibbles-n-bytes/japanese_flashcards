@@ -1,0 +1,4 @@
+﻿wordJapanese:｛歌｝｛うた｝う
+wordEnglish:to sing
+type:う
+particle:～を

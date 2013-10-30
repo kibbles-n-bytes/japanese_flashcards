@@ -1,0 +1,2 @@
+wordJapanese:パーティー
+wordEnglish:party

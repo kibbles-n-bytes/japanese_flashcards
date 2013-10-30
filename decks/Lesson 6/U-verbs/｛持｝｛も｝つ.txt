@@ -1,0 +1,4 @@
+wordJapanese:｛持｝｛も｝つ
+wordEnglish:to carry; to hold
+type:う
+particle:～を

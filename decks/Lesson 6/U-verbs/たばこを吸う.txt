@@ -1,0 +1,3 @@
+wordJapanese:たばこを吸う
+wordEnglish:to smoke
+type:う

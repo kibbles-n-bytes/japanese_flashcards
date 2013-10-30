@@ -1,0 +1,3 @@
+﻿wordJapanese:（めがねを）かける
+wordEnglish:to put on (glasses)
+type:る

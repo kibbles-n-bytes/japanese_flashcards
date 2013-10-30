@@ -1,0 +1,2 @@
+wordJapanese:｛髪｝｛かみ｝
+wordEnglish:hair

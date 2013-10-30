@@ -1,0 +1,4 @@
+﻿wordJapanese:｛着｝｛き｝る
+wordEnglish:to put on (clothes above your waist)
+type:る
+particle:～を

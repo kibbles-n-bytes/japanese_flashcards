@@ -1,0 +1,4 @@
+﻿wordJapanese:｛下手｝｛へた｝
+wordEnglish:clumsy; poor at...
+type:な
+particle:～が

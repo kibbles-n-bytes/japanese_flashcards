@@ -1,0 +1,2 @@
+wordJapanese:｛夏｝｛なつ｝
+wordEnglish:summer

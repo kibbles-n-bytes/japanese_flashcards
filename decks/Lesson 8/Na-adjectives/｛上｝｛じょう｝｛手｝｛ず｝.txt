@@ -1,0 +1,4 @@
+wordJapanese:｛上｝｛じょう｝｛手｝｛ず｝
+wordEnglish:skillful; good at...
+type:な
+particle:～が

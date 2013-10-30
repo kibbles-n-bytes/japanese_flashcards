@@ -1,0 +1,4 @@
+wordJapanese:｛連｝｛つ｝れてくる
+wordEnglish:to bring (a person)
+type:irregular
+particle:～を

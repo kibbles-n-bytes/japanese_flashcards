@@ -1,0 +1,2 @@
+wordJapanese:はし
+wordEnglish:chopsticks

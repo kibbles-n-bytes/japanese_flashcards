@@ -1,0 +1,3 @@
+wordJapanese:｛遅｝｛おそ｝くなる
+wordEnglish:to be late
+type:う

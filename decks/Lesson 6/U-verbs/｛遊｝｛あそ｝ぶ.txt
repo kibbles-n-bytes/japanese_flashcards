@@ -1,0 +1,3 @@
+wordJapanese:｛遊｝｛あそ｝ぶ
+wordEnglish:to play; to spend time pleasantly
+type:う

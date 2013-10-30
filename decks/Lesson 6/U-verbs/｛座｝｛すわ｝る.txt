@@ -1,0 +1,4 @@
+wordJapanese:｛座｝｛すわ｝る
+wordEnglish:to sit down
+type:う
+particle:seat に

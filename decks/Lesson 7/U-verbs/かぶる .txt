@@ -1,0 +1,4 @@
+﻿wordJapanese:かぶる
+wordEnglish:to put on (a hat)
+type:う
+particle:～を

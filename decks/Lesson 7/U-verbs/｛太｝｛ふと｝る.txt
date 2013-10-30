@@ -1,0 +1,3 @@
+﻿wordJapanese:｛太｝｛ふと｝る
+wordEnglish:to gain weight
+type:う

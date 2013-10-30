@@ -1,0 +1,4 @@
+wordJapanese:｛消｝｛け｝す
+wordEnglish:to turn off; to erase
+type:う
+particle:～を

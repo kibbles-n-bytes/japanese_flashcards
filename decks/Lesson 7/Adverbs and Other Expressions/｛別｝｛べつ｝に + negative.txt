@@ -1,0 +1,2 @@
+wordJapanese:｛別｝｛べつ｝に + negative
+wordEnglish:nothing in particular

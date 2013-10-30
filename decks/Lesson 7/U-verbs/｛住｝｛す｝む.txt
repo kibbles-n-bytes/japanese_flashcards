@@ -1,0 +1,4 @@
+﻿wordJapanese:｛住｝｛す｝む
+wordEnglish:to live
+type:う
+particle:～にすんでいます

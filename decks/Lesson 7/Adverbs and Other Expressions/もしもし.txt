@@ -1,0 +1,2 @@
+wordJapanese:もしもし
+wordEnglish:Hello? (used on the phone)
