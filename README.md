@@ -17,6 +17,6 @@ Features:
     Shuffling
     A timer to turn to the next card
 
-The main function is in "Vocabulary Trainer/src/VocabularyTrainerGUI.java" !
+The main function for the actual program is in "Vocabulary Trainer/src/VocabularyTrainerGUI.java" ! Decks can be built using the "Deck Builder" application. Decks are stored in the "decks" folder.
 
 Note: Currently crashes on OS X during loading of cards. 
